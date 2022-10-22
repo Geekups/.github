@@ -1,7 +1,7 @@
 <h2>Hi EveryOne!! 👋 </h2>
 
 <div>
-<s>
+
 <em>
 <br/>
 I'm Mohammad Javad Tabari
@@ -13,7 +13,7 @@ also, my programming nickname is "illegible"
 you can mail me directly at this email address: mohammadJavadtabari1024@outlook.com
 <br/>
 </em>
-</s>
+
 </div>
 <hr>
 
