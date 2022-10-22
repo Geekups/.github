@@ -1,5 +1,7 @@
 <h2>Hi EveryOne!! 👋 </h2>
 
+![IMG_20221019_225549_480](https://user-images.githubusercontent.com/92685218/197340745-869433cf-7066-4762-945f-b4f49addc2bb.jpg)
+
 <div>
 
 <em>
@@ -50,16 +52,5 @@ or any kind of talent and knowledge you have, and you think it's useful in our f
 
 for more information you can contact me via email
 
-have a good day
+<b>have a nice day</b> 🍎
 
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
