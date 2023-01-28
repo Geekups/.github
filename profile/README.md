@@ -6,7 +6,7 @@
 
 <em>
 <br/>
-I'm Mohammad Javad Tabari
+I'm Bamdad Tabari
 <br/>
 also, people call me "دایی" most of the time
 <br/>
