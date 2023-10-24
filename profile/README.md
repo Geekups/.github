@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bamdad Tabari</h1>
 <h3 align="center"> Also, people call me "دایی" most of the time also, my programming nickname is "illegible"</h3>
 
-<h2 align="center">and I should say welcome to Dayana 🌱</h2>
+<h2 align="center">and I should say welcome to Geekups 🌱</h2>
 
-here is my idea for a long time. building such an organization on GitHub and having my own programming Team and Family. and finally, I built this place with my young and smart friends,
-we work here together learn and practice improve ourselves improve our family builds tools, apps, and websites work on AI and ML discuss with each other, and solve problems help new people to grow with us, and feed them with our knowledge tree get customers and do their jobs build multi-dimensional projects with multi-purpose all around the world we have special teams for every part of programming and IT Penetration Testers, developers, Data Scientists, Designers, Graphic Specialists, Bussiness Assistance, Security Specialists, and ... we are growing continuously nothing can stop this concept. even if I die, my brothers and sisters will continue our family plans. 👯
+here is my idea for a long time. building such an organization on GitHub and having my own programming Team and Family. finally, I built this place with my young and smart friends,
+we work here together learn and practice improve ourselves improve our family build tools, apps, and websites work on AI and ML discuss with each other, and solve problems help new people grow with us, and feed them with our knowledge tree get customers and do their jobs build multi-dimensional projects with multi-purpose all around the world we have special teams for every part of programming and IT Penetration Testers, developers, Data Scientists, Designers, Graphic Specialists, Bussiness Assistance, Security Specialists, and ... we are growing continuously nothing can stop this concept. even if I die, my brothers and sisters will continue our family plans. 👯
 
 💬if you are a work cower and need a professional team to do your job => We Are Your Best Choice
 if you are new to programming and are just confused in the middle of the way. or you just wanna start => We Are Your Best Choice💬
@@ -13,9 +13,9 @@ if you are new to programming and are just confused in the middle of the way. or
 
 🍎for more information, you can contact me via email or linkedin🍎
 
-- 👨‍💻 Most of our projects are available at [https://github.com/Dayana-World](https://github.com/Dayana-World)
+- 👨‍💻 Most of our projects are available at [https://github.com/orgs/Geekups](https://github.com/orgs/Geekups)
 
-- 📝We regularly write articles on [http://dayana.keyvansafe.com/](http://dayana.keyvansafe.com/)
+- 📝We regularly write articles on [https://Geekups.com](https://Geekups.com)
 
 - 📫 How to reach me **bamdadtabari@outlook.com**
 
